@@ -2,7 +2,7 @@
 
 This repository contains a number of guides aimed at breaking down certain conceptual aspects in order to teach players how to make informed decisions about how to tackle content within the game Azur Lane. All guide content is intended to be viewed in your browser. Downloading the repository can give you access to offline, plain-text copies, but all images, links, and formatting will fail to render.
 
-Here's my favorite reading music to help you read through these: [Cafe de Touhou albums 1-8](https://youtu.be/Aq6I6LK01Q0)
+Here's Meowrin's favorite reading music to help you read through these: [Cafe de Touhou albums 1-8](https://youtu.be/Aq6I6LK01Q0)
 
 Current recommended reading order for newbies:
  - [Beginner Equipment Guide](/Beginner%20Equipment.md)
@@ -23,14 +23,20 @@ Other useful resources:
  
 Credits:
  - The original creator of the guide: [guroteske](https://github.com/guroteske/al-guides)
+ - Second manager of the guide: [Meowrin](https://github.com/Meowrin/al-guides)
  - Various source images exported from the game files from: [Dimbreath](https://github.com/Dimbreath) 
  - Various opinions and support from the ALEC and ALO discord
 
-If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.
+If you have any questions or comments, feel free to post an issue here or contact me on discord (Fishman465#1121). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me. Keep in mind that I have a job so there may be some time before I respond.
 
 ```
 CHANGELOG
 ---------
+2020-08-29
+ copied over al-guides repo from Meowrin's github
+ added equipment from Aurora Noctis
+  De Havilland Sea Hornet (added to Equipment Guide under Fighters)
+  533mm Magnetic Torpedo (added to Auxiliary Guide under Vanguard Auxiliaries)
 2020-06-17 
   added single 138mm mle 1927 and twin 203mm mle 1924 to the Equipment Guide
   added a reading music youtube link 
