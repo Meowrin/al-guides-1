@@ -63,11 +63,14 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 ## Offensive Auxiliary Equipment
 **Vanguard Auxiliaries**<br/>
 [![Oxytorp](/resources/oxytorp%20no_gr.png)](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)
+[![MagTorp](/resources/MagTorpAux_NoGr.png)](https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo)
 [![Autoloader](/resources/autoloader%20no_gr.png)](https://azurlane.koumakan.jp/Autoloader#Type_3)
 [![FCR](/resources/fcr%20no_gr.png)](https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3)
 [![FP Report](/resources/FP%20Report.png)](https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)** has a very high torpedo boost with a moderate reload boost. For most ships equipped with torpedoes, it will provide a higher DPM boost than any other aux. However, as this is reliant on your torpedoes actively hitting targets, other auxiliaries may provide a superior effective DPM boost.
+ 
+  - **[533mm_Magnetic_Torpedo](https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo)** has a rather high torpedo boost with a mild accuracy boost. It also boosts an effect of making your first manually launched torpedo salvo magnetic and boosting its damage by 5%. Ships like Nagami and Kiyonami can get the effect on their skill induced launches until they manually fire. Its use beyond being a "Cheaper to upgrade alternate to the Oxytorp" is rather niche either with a ship in a mob-clearning fleet or PvP as the Oxytorp will provide more torpedo damage in a longer fight.
  
  - **[Automated Reloader](https://azurlane.koumakan.jp/Autoloader#Type_3)** has a very high reload boost with a mild firepower boost. It is the only available offensive aux for gunboat light cruisers and generally the strongest offensive aux for gunboat heavy cruisers.
  
