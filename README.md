@@ -8,7 +8,7 @@ Current recommended reading order for newbies:
  - [Beginner Equipment Guide](/Beginner%20Equipment.md)
  - [Limit Break Guide](/Limit%20Break%20Guide.md)
  - [Fleet Composition Guide](/Fleet%20Composition.md)
- - [Equipment Guide](Equipment%20Guide.md)
+ - [Equipment Guide](Equipment%20Guide.md), [Auxiliary Guide](https://github.com/Fishman465/al-guides/blob/master/Auxiliary%20Guide.md), and [Core Data Guide](https://github.com/Fishman465/al-guides/blob/master/Core%20Data%20Guide.md)
  
 Other useful resources:
  - [Kawaii Five-O's ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides)
@@ -32,6 +32,9 @@ If you have any questions or comments, feel free to post an issue here or contac
 ```
 CHANGELOG
 ---------
+2020-09-03
+ Added 380mm Quad Mle1935 and Pressure-Resistant Hull Design to Core Data Guide.
+ Adjusted some remarks and Pressure-Resistant Hull Design in the Equipment Guide (Planning to add Gangut's gun in its own section in the near future)
 2020-08-29
  copied over al-guides repo from Meowrin's github
  added equipment from Aurora Noctis
