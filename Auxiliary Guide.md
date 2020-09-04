@@ -125,12 +125,15 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Oxytorp](/resources/oxytorp%20no_gr.png)](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)
 [![Snorkel](/resources/snorkel%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Snorkel)
 [![Battery](/resources/battery%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Storage_Battery)
+[![Pressure-Resistant Hull Design](/resources/PrReHuDe%20no_gr.png)](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)** is the only torpedo boosting auxiliary equipment coupled with a moderate reload boost. It is a given at all submarines should be equipped with at least one oxytorp. It is also rainbow rarity which means it provides a higher CP boost than gold rarity equipment which affect the submarine passive map damage.
  
  - **[Improved Snorkel](https://azurlane.koumakan.jp/Improved_Snorkel)** boosts the O2 stat of the equipped submarine, increasing the amount of time they can stay submerged. While not directly offensive, it enables certain submarines to fire off an extra volley with their equipped torpedoes, which provides a greater increase in damage than the large torpedo stat boost of an oxytorp. Only one oxygen-increasing aux can be equipped per submarine.
  
  - **[Improved Storage Battery](https://azurlane.koumakan.jp/Improved_Storage_Battery)** provides a mild evasion boost and increases a submarine's hunting range by up to 2 levels. Only functions when equipped to the submarine fleet flagship. As meowficers can provide the same increase in hunting range while also boosting stats and not coming with the opportunity cost of occupying an aux slot, the battery is generally not worth investing in but is useful in one specific instance where you can run a 0LB sub as flag to have the best possible range while costing very little for leveling other subs.
+ 
+ - **[Pressure-Resistant Hull Design](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)** - Mildly boosts Hp and Torpedo, with an effect of boosting a Sub's speed upon getting called itno battle by 30% and has them stop further ahead than normal. This makes using the slower torpedoes easier to use by the side subs.
 
 **Ship-Specific Auxiliaries**<br/>
 [![Z Flag](/resources/z%20flag%20no_gr.png)](https://azurlane.koumakan.jp/Z_Flag)
