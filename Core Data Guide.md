@@ -22,7 +22,7 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
  - **[Fairey Firefly](https://azurlane.koumakan.jp/Fairey_Firefly)** - A relatively fast dive bomber with exceptionally strong anti-air guns. Has niche usage when airstrike AA and/or faster airstrike reload speed is desired.
  - **[Fairey Swordfish (818 Squadron)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))** - The most generally useful parallel spread torpedo bomber. Its utility makes it a generally superior option to the relatively more difficult to acquire Fairey Barracuda or VT-18 TBM Avenger when using a Ryuusei or Tenzan would be impractical. It is also a good choice for a ship with a weak torpedo bomber slot for utility reasons. Also strong in PVP.
  - **[Seiran](https://azurlane.koumakan.jp/Aichi_M6A_Seiran)** - Strongest seaplane bomber in the game overall. Purchase if you use BBVs or I-13 (especially her as her skill ups its damage by 60% at lv10)
- - **[380mm Quad Mle1935](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935)#Type_3)** - Currently JP/CN only. **Get only if you have Jean Bart and somehow not picked this up during the french event runs** Otherwise very much not reccomended, there's better BB guns out of item boxes
+ - **[380mm Quad Mle1935](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935)#Type_3)** - **Get only if you have Jean Bart and somehow not picked this up during the french event runs** Otherwise very much not reccomended, there's better BB guns out of item boxes
 
 ## Recommended Auxiliary Equipment
 [![Type 93 Oxygen Torpedo](/resources/oxytorp%20no_gr.png)](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)
