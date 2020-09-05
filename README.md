@@ -32,8 +32,8 @@ If you have any questions or comments, feel free to post an issue here or contac
 ```
 CHANGELOG
 ---------
-2020-09-04
- Added Triple 305mm (Pattern 1907) to the Equipment Guide under a new section in battleship guns.
+2020-09-05
+ Improved descriptions and some cleaning up.
 2020-09-03
  Added 380mm Quad Mle1935 and Pressure-Resistant Hull Design to Core Data Guide.
  Adjusted some remarks to the Equipment Guide.
