@@ -173,11 +173,6 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[380mm Twin SK C/34](https://azurlane.koumakan.jp/Twin_380mm_(SK_C/34)#Type_3)** is nearly identical to, but slightly worse than the 381mm twin, except it shoots AP shells. A weaker choice for general use, given the already limited applications of AP shells. However, its damage output against medium and heavy armour pulls ahead of the 381mm twin, and is worth using if another BB is present to keep burn DOTs up.
  - **[283mm Triple SK C/34](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/34)#Type_3)** is the absolute fastest firing battleship main gun in the game, with the cost of sub-100 base damage and normal shells. Worthless for general use, but has some niche applications where the increase in fire rate is significant enough to make up for its shortcomings, such as when your ships significantly outlevel a given map.
  
-**miscellaneous Battleship Gun** <br/>
-[![Triple 305mm (Pattern 1907)](/resources/GangutGun%20No_gr.png)](https://azurlane.koumakan.jp/Triple_305mm_(Pattern_1907))
-
- - **[Triple 305mm (Pattern 1907)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/34)#Type_3)** is on paper very much unremarkable (Beyond a coefficient that's 15% higher than the next highest) at best. However with Gangut's "Long Live the Revolution!" skill, she gets a considerble main gun efficiency boost (50-80%) and cut to her reload time (-20% to 35%) for the first 4 loadings, which can bring its general effectiveness to rivaling a good number of higher rarity guns, even perhaps rivaling the 406m Mk6 in damage while having only a reload time a bit shy of 18sec. She has this gun as stock equipment, making equipping her much simpler.
-
 ## Torpedoes
 
 **Surface Torpedoes** <br/>
