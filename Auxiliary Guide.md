@@ -133,7 +133,8 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  
  - **[Improved Storage Battery](https://azurlane.koumakan.jp/Improved_Storage_Battery)** provides a mild evasion boost and increases a submarine's hunting range by up to 2 levels. Only functions when equipped to the submarine fleet flagship. As meowficers can provide the same increase in hunting range while also boosting stats and not coming with the opportunity cost of occupying an aux slot, the battery is generally not worth investing in but is useful in one specific instance where you can run a 0LB sub as flag to have the best possible range while costing very little for leveling other subs.
  
- - **[Pressure-Resistant Hull Design](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)** - Mildly boosts Hp and Torpedo, with an effect of boosting a Sub's speed upon getting called itno battle by 30% and has them stop further ahead than normal. This makes using the slower torpedoes easier to use by the side subs.
+ - **[Pressure-Resistant Hull Design](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)** - Mildly boosts HP and Torpedo, with an effect of boosting a Sub's speed upon getting called into battle by 20% and shifts their final call-in position forward by 8 units. This has the fortunate side effect of allowing more of their torpedoes to land on target, assuming said Sub is off to the sides.
+
 
 **Ship-Specific Auxiliaries**<br/>
 [![Z Flag](/resources/z%20flag%20no_gr.png)](https://azurlane.koumakan.jp/Z_Flag)
