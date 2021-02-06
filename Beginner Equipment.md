@@ -170,6 +170,10 @@ Because blue equipment requires such a small number of blueprints to craft, farm
 - One of the most easily obtainable blue AA gun in the game due to Norfolk. While AA isn't as big of a problem early on, having a couple copies of this +3 equipped will make your push through 3-4 massively easier. Do note that for AA guns, the highest rarity gun should be equipped on the highest efficiency ship in your fleet as a beginner rule of thumb, optimizing AA is in the [Equipment Guide](Equipment%20Guide.md#anti-air-aa-guns).
 
 ### Early-Game Farming Maps
+
+#### Note on useful ships
+- Only drop only or Elite/SR ships will be listed here, for more information on good ships for beginners, looking at a beginner ship guide like Kawaii Five 0's.
+
 #### Any Event Map
 - Did you join during an event? Consider yourself in luck. Farming event maps is one of the most efficient things you could do, regardless of what the event actually drops. Aside from potentially having useful blueprints or ship drops, clearing an event map will reward you with a chunk of event currency, which can be used to purchase a number of useful consumables from the event shop, which typically includes retrofit blueprints and equipment boxes. A list droppable equipment blueprints can be gleam before you start a sortie
 
@@ -181,7 +185,7 @@ Because blue equipment requires such a small number of blueprints to craft, farm
 #### 2-2
 - **Useful Equipment:** Naval Camo, Blue Anti-Air Guns
 - **Useful Ships:** Laffey, Javelin, Ayanami (JP), Z23 (CN/EN), Shouhou, Arizona
-- One of the absolute best grinding spots for newer players. Starting in chapter 2, the starter ships are available as map drops, with the starter ship collection providing both a gold rarity quintuple torpedo launcher and the fourth starter ship. Arizona and Shouhou are both healers, with Arizona in particular being the only healing battleship in the game. While most blue rarity map drop ships either aren't notable enough to warrant mention, or are readily accessible otherwise, Shouhou only drops in chapter 2 and is an incredibly potent ship, both early and late game. The blue anti-air guns that drop here, while not particular noteworthy, are still useful for the upcoming chapter 3, which has some of the first maps that test your ability to survive in high-aviation fights.
+- One of the absolute best grinding spots for newer players. Starting in chapter 2, the starter ships are available as map drops, with the starter ship collection providing both a gold rarity quintuple torpedo launcher and the fourth starter ship. Arizona and Shouhou are both healers, with Arizona in particular being the only healing battleship in the game. While most blue rarity map drop ships either aren't notable enough to warrant mention, or are readily accessible otherwise, Shouhou only drops in chapter 2 and is an incredibly potent ship for most content save the plane heavy conditions of Worlds 12 and 13. The blue anti-air guns that drop here, while not particular noteworthy, are still useful for the upcoming chapter 3, which has some of the first maps that test your ability to survive in high-aviation fights.
 
 #### 2-3
 - **Useful Equipment:** Anti-Air Radar, Fire Extinguisher
@@ -196,17 +200,17 @@ Because blue equipment requires such a small number of blueprints to craft, farm
 #### 3-2
 - **Useful Equipment:** Steam Catapult, 127mm Single, SB2C Helldiver, 152mm Single
 - **Useful Ships:** Starter Collection, Charles Ausburne, Souryuu and Hiryuu (Dragons)
-- Easily one of the best early-game farming maps. What 2-2 gives you in ship drops, 3-2 gives you in equipment drops. Every single piece of gear here is useful with the exception of the 102mm destroyer gun. while 3-1 and 3-3 give okay drops, any blueprint acquired from those maps is a blueprint not acquired from 3-2. For ship drops, Charles Ausburne is part of the Beaver collection, and the hardest to acquire, being a purple rarity ship. Dragons are often overlooked compared to the Foxes from 3-4, but are significantly easier to acquire, have comparable performance in PvE, and have remodels which make them substantially better for late-game PvE.
+- Easily one of the best early-game farming maps. What 2-2 gives you in ship drops, 3-2 gives you in equipment drops. Every single piece of gear here is useful with the exception of the 102mm destroyer gun. while 3-1 and 3-3 give okay drops, any blueprint acquired from those maps is a blueprint not acquired from 3-2. For ship drops, Charles Ausburne is part of the Beaver collection, and the hardest to acquire, being a purple rarity ship and drop only. Dragons are often overlooked compared to the Foxes from 3-4, but are significantly easier to acquire, have comparable performance in PvE, and have remodels which make them substantially better for late-game PvE.
 
 #### 3-4
 - **Useful Equipment:** Toolbox, F4U Corsair, 152mm twin
-- **Useful Ships:** Starter Collection, Akagi and Kaga (Foxes)
-- The most popular early-game farming maps. While the equipment can be useful, 3-2 is a more efficient map to farm if that's what you're after. The main reason 3-4 is a popular farming spot is the Foxes. Overall not as efficient a spot to farm as 3-2. While Foxes are strong, they're significantly harder to farm than Dragons, and can be acquired through chapter 3's SOS mission.
+- **Useful Ships:** Starter Collection, Akagi and Kaga (Foxes), Kagerou
+- The most popular early-game farming maps. While the equipment can be useful, 3-2 is a more efficient map to farm if that's what you're after. The main reason 3-4 is a popular farming spot is the Foxes. Overall not as efficient a spot to farm as 3-2. While Foxes are strong, they're significantly harder to farm than Dragons, and can be acquired through chapter 3's SOS mission. Kagerou packs a monsterous punch with her torpedoes for rarity before conidering her refit and vanguard torpedo buff, more so since the other IJN buffers are event locked or late game drops, especially ones for heavy cruisers.
 
 #### 4-2
 - **Useful Equipment:** 152mm Triple, 120mm Twin, 40mm Quad Pom-Pom, 203mm Mounted, 150mm Twin TbtsK
-- **Useful Ships:** Starter Collection, Shiranui, London
-- As with 3-2, every single equipment drop from here is useful. All five drops are T3 and only the pom-pom has a readily accessible replacement. Shiranui, similar to Shouhou, is a low-rarity ship that only drops in chapter 4. While she's not as universally useful as Shouhou, she's still an incredibly capable ship you should keep an eye out for while farming. London, meanwhile, while less generally useful without her remodel than some of the other early-game farmable ships like Shouhou and Shiranui, becomes incredibly strong with her remodel, and is worth keeping an eye out for and investing in.
+- **Useful Ships:** Starter Collection, Shiranui, London, Shigure
+- As with 3-2, every single equipment drop from here is useful. All five drops are T3 and only the pom-pom has a readily accessible replacement. Shiranui, similar to Shouhou, is a low-rarity ship that only drops in chapter 4. While she's not as universally useful as Shouhou, she's still an incredibly capable ship you should keep an eye out for while farming. London, meanwhile, while less generally useful without her remodel than some of the other early-game farmable ships like Shouhou and Shiranui, becomes incredibly strong with her remodel, and is worth keeping an eye out for and investing in. Shigure is roughly comparable with base Javelin but with better torps, and her refit makes her close to Yukikaze in general performance
 
 #### Chapter 5 and why you should not farm here
 While chapter 5 is the first map that drops gold equipment blueprints, and that can seem tempting at first, chapter 5 is a terribly inefficient spot to farm. Gold blueprints require more copies to craft their respective piece of gear than purple equipment, while only dropping from the boss node, unlike purple blueprints which drop from all nodes. Additionally, T3 upgrade plates, which are required to upgrade equipment past +6, only start to drop starting in chapter 6. It will take an exceptionally long amount of time to actually acquire enough blueprints from a chapter 5 map to craft a piece of equipment, all the while you're not receiving T3 upgrade plates. If your fleets are capable of clearing the chapter 5 maps, your fleets are capable of starting to farm in chapter 6. If you're struggling in chapter 5, you'd be better off dropping back down to 4-2 to farm strong purple equipment instead.
